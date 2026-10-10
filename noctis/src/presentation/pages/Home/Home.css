@@ -1,0 +1,13 @@
+.Home {
+    flex-direction: column;
+}
+
+.Home .chat {
+    width: 50%;
+    height: 80%;
+    padding: 10px 20px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
